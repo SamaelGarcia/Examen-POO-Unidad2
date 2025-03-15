@@ -1,0 +1,25 @@
+meta {
+  name: Create
+  type: http
+  seq: 2
+}
+
+get {
+  url: https://localhost:7260/api/planillas
+  body: json
+  auth: none
+}
+
+headers {
+  Content-Type: application/json
+}
+
+body:json {
+  {
+    "id": 1,
+    "periodo": "Marzo 2025",
+    "fechaCreacion": "2025-02-14",
+    "fechaPago": "2025-03-13",
+    "estado": "Pagada"
+  }
+}

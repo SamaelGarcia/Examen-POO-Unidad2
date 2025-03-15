@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\controllers\\planillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\controllers\\planillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\services\\interfaces\\iplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\services\\interfaces\\iplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\services\\planillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\services\\planillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\dtos\\planillas\\planillaoutputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\dtos\\planillas\\planillaoutputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\dtos\\planillas\\planillainputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\dtos\\planillas\\planillainputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\dtos\\planillas\\planilladetallesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\dtos\\planillas\\planilladetallesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\database\\entities\\detalleplanillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\database\\entities\\detalleplanillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\database\\entities\\planillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\database\\entities\\planillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\migrations\\20250315000016_initplanillas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\migrations\\20250315000016_initplanillas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\database\\planillasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\database\\planillasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|c:\\users\\user\\projects\\unidad1\\examen2-poo\\examendos\\examendos\\database\\entities\\empleadoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059ED35-DE0B-4A03-8B8B-77A5D2C82440}|ExamenDos\\ExamenDos.csproj|solutionrelative:examendos\\database\\entities\\empleadoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanillasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Controllers\\PlanillasController.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Controllers\\PlanillasController.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Controllers\\PlanillasController.cs",
+              "RelativeToolTip": "ExamenDos\\Controllers\\PlanillasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:11:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanillaServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Services\\PlanillaServices.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Services\\PlanillaServices.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Services\\PlanillaServices.cs",
+              "RelativeToolTip": "ExamenDos\\Services\\PlanillaServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:05:01.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanillaInputDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Dtos\\Planillas\\PlanillaInputDto.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Dtos\\Planillas\\PlanillaInputDto.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Dtos\\Planillas\\PlanillaInputDto.cs",
+              "RelativeToolTip": "ExamenDos\\Dtos\\Planillas\\PlanillaInputDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:21:37.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlanillaDetallesDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Dtos\\Planillas\\PlanillaDetallesDto.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Dtos\\Planillas\\PlanillaDetallesDto.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Dtos\\Planillas\\PlanillaDetallesDto.cs",
+              "RelativeToolTip": "ExamenDos\\Dtos\\Planillas\\PlanillaDetallesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:19:51.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetallePlanillaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Database\\Entities\\DetallePlanillaEntity.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Database\\Entities\\DetallePlanillaEntity.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Database\\Entities\\DetallePlanillaEntity.cs",
+              "RelativeToolTip": "ExamenDos\\Database\\Entities\\DetallePlanillaEntity.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:05:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanillaOutputDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Dtos\\Planillas\\PlanillaOutputDto.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Dtos\\Planillas\\PlanillaOutputDto.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Dtos\\Planillas\\PlanillaOutputDto.cs",
+              "RelativeToolTip": "ExamenDos\\Dtos\\Planillas\\PlanillaOutputDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:22:06.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlanillaServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Services\\Interfaces\\IPlanillaServices.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Services\\Interfaces\\IPlanillaServices.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Services\\Interfaces\\IPlanillaServices.cs",
+              "RelativeToolTip": "ExamenDos\\Services\\Interfaces\\IPlanillaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:04:39.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanillaEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Dtos\\Planillas\\PlanillaEditDto.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Dtos\\Planillas\\PlanillaEditDto.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Dtos\\Planillas\\PlanillaEditDto.cs",
+              "RelativeToolTip": "ExamenDos\\Dtos\\Planillas\\PlanillaEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:20:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlanillaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Database\\Entities\\PlanillaEntity.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Database\\Entities\\PlanillaEntity.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Database\\Entities\\PlanillaEntity.cs",
+              "RelativeToolTip": "ExamenDos\\Database\\Entities\\PlanillaEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:05:33.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Program.cs",
+              "RelativeToolTip": "ExamenDos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:58:54.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250315000016_InitPlanillas.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Migrations\\20250315000016_InitPlanillas.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Migrations\\20250315000016_InitPlanillas.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Migrations\\20250315000016_InitPlanillas.cs",
+              "RelativeToolTip": "ExamenDos\\Migrations\\20250315000016_InitPlanillas.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:00:17.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenDos\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\appsettings.json",
+              "RelativeToolTip": "ExamenDos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T23:57:20.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlanillasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Database\\PlanillasDbContext.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Database\\PlanillasDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Database\\PlanillasDbContext.cs",
+              "RelativeToolTip": "ExamenDos\\Database\\PlanillasDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:49:26.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmpleadoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Database\\Entities\\EmpleadoEntity.cs",
+              "RelativeDocumentMoniker": "ExamenDos\\Database\\Entities\\EmpleadoEntity.cs",
+              "ToolTip": "C:\\Users\\User\\projects\\Unidad1\\Examen2-POO\\ExamenDos\\ExamenDos\\Database\\Entities\\EmpleadoEntity.cs",
+              "RelativeToolTip": "ExamenDos\\Database\\Entities\\EmpleadoEntity.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:05:11.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

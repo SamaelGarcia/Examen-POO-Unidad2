@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ExamenDos.Controllers.PlanillasController",
+    "Method": "CreatePlanilla",
+    "RelativePath": "api/planillas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loanInput",
+        "Type": "ExamenDos.Dtos.Planillas.PlanillaInputDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
