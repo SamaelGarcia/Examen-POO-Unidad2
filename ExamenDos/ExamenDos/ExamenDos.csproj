@@ -19,9 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Dtos\Empleado\" />
     <Folder Include="Helpers\" />
-    <Folder Include="Profiles\" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,5 @@
 using ExamenDos.Database;
+using ExamenDos.Profiles;
 using ExamenDos.Services;
 using ExamenDos.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -15,6 +16,10 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
 builder.Services.AddTransient<IPlanillaServices, PlanillaServices>();
+builder.Services.AddTransient<IEmpleadosServices, EmpleadosServices>();
+builder.Services.AddTransient<IDetallePlanillaServices, DetallePlanillaServices>();
+
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 var app = builder.Build();
 
